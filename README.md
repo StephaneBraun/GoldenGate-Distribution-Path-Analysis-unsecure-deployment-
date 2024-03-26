@@ -58,7 +58,7 @@ Two ways to launch the program:
 
   Example :
 
-    java -jar goldenGateDistributionPath.jar oggadmin oggadmin oggConnect 30
+        java -jar goldenGateDistributionPath.jar oggadmin oggadmin oggConnect 30
 
 Result file: in the directory declared by the defaultDir variable, the file name will be in the form:
 
