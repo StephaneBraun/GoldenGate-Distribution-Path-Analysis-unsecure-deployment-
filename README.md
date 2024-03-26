@@ -45,14 +45,14 @@ Example :
 
 Two ways to launch the program:
 
-- With the prompt
+- With prompt for mandatory paramters :
 
        java -jar goldenGateDistributionPath.jar
 
   And enter the user and password of the GoldenGate Service Manager, the name of the properties file and the statistics refresh frequency in seconds
   If the frequency is less than 10 seconds, it will automatically be repositioned to 10 seconds.
 
-- With the parameters in the command line:
+- With the parameters in the command line :
 
         java -jar goldenGateDistributionPath.jar OGG_user OGG_pwd Properties_file_without_extension_.properties Frequency_in_seconds
 
