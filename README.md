@@ -14,7 +14,7 @@ Here, it will be possible to keep for analysis the following information from th
 - Number of updates
 - Number of deletes
 - Total number of lines
--sendWaitTime
+- sendWaitTime
 - recvWaitTime
 - totalBytesSent
 - totalMsgsSent
