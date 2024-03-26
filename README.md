@@ -13,7 +13,7 @@ Here, it will be possible to keep for analysis the following information from th
 - Number of inserts
 - Number of updates
 - Number of deletes
-- Total number of lines
+- Total number of rows
 - sendWaitTime
 - recvWaitTime
 - totalBytesSent
